@@ -1,4 +1,4 @@
-//package PracticaPrimerSemana;
+package PracticaPrimerSemana;
 
 public class Velero extends Barco {
 	private int numeroMastiles;

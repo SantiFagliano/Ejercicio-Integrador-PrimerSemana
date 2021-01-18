@@ -1,4 +1,4 @@
-//package PracticaPrimerSemana;
+package PracticaPrimerSemana;
 
 public class Yate extends Barco {
 	private int potenciaCV;

@@ -1,4 +1,4 @@
-//package PracticaPrimerSemana;
+package PracticaPrimerSemana;
 
 public class Alquiler {
 	private String nombreCliente;

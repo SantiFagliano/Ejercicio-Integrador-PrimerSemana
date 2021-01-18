@@ -1,4 +1,4 @@
-//package PracticaPrimerSemana;
+package PracticaPrimerSemana;
 
 public abstract class Barco {
 	private int matricula;

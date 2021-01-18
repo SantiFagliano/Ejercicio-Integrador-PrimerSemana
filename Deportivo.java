@@ -1,4 +1,4 @@
-//package PracticaPrimerSemana;
+package PracticaPrimerSemana;
 
 public class Deportivo extends Barco {
 	private int potenciaCV;
